@@ -1,0 +1,83 @@
+.Title-Section{
+    display: flex;
+    height: 190px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 8%;
+    justify-content: center;
+}
+.under-nav, .navbar{
+    flex-grow: 1;
+}
+.Products{
+    display: flex;
+    justify-content: space-around;
+    padding: 3%;
+    flex-wrap: wrap;
+    
+    
+}
+
+/* buttons */
+.product-categories{
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.btn {
+    font-size: 17px;
+    background: transparent;
+    border: none;
+    padding: 1em 1.5em;
+    color: #000000;
+    text-transform: uppercase;
+    position: relative;
+    transition: .5s ease;
+
+  }
+  
+  .btn::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 0;
+    background-color: #ffc506;
+    transition: .5s ease;
+  }
+  
+  .btn:hover {
+    color: #1e1e2b;
+    transition-delay: .5s;
+  }
+  
+  .btn:hover::before {
+    width: 100%;
+  }
+  
+  .btn::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 0;
+    width: 100%;
+    background-color: #ffc506;
+    transition: .4s ease;
+    z-index: -1;
+  }
+  
+  .btn:hover::after {
+    height: 100%;
+    transition-delay: 0.4s;
+    color: aliceblue;
+  }
+  .card{
+    margin-top: 2rem;
+  }
+  .display-none{
+    display: none;
+  }

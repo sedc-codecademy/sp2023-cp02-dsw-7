@@ -1,0 +1,81 @@
+
+
+{
+    "productsMassGainer": [
+      {
+        "id": 1,
+        "title": "SUPER MASS GAINER | 2934 gr",
+        "description": "Dymatize® SUPER MASS GAINER™ е премиум гејнер за зголемување на мускулна маса, со соодветен калоричен профил дизајниран да ги задоволи особените потеби на бодибилдерите, и сите оние кои сакаат да качат мускулна маса. Особено во фаза на интензивни тренинзи, есенцијалено е да се овозможи соодветен нутртивен внес. “POWERHOUSE Formula” е специјален матрикс дизајниран да овозможи силна комбинација од креатин, јаглехидрати и протеини, задоволувајќи ги потребите за зголемување на мускулната маса. Секоја порција содржи 52 гр високо квалитетен протеин, вклучувајќи 11-12 гр BCAAs + 3 гр креатин и 243 гр јаглехидрати низок процент шекери.Dymatize®  користи само чист, високо квалитетен креатин монохидрат од Creapure®.52 гр високо квалитетен протеин во порција Вклучено 11 – 12 гр BCAAs** До 243 гр јаглехидрати во порција Со 3 гр креатин во порција Низок процент на шекер Вклучени 5 витамини Без глутен Без банирани супстанции тестирано од “Informed-Sport” for athletes’ гаранција за продукт со највисок квалитет ",
+        "price": 2390,
+        "discountPercentage": 0.00,
+        "rating": 4.49,
+        "stock": 74,
+        "brand": "Dymatize",
+        "category": "MassGainer",
+        "thumbnail": "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/SUPER%20MASS%20GAINER%20%202934%20gr/smg_pulver_2943g_gourmet_vanilla_170914_600x600.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/SUPER%20MASS%20GAINER%20%202934%20gr/smg_pulver_2943g_gourmet_vanilla_170914_600x600.png"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Solid Mass Gainer 1kg",
+        "description": " !!! НОВО !!! Препорачано од Denis Cyplenkov ВРВНИОТ КВАЛИТЕТ НА ТРЕК Solid Mass Monster Mass Building Formula! Помага во добивање на мускулна маса и тежина Вреден извор на енергија и протеини Гејнер основан на протеини и јагленихидрати",
+        "price": 690,
+        "discountPercentage": 0.00,
+        "rating": 2.10,
+        "stock": 37,
+        "brand": "Trec",
+        "category": "MassGainer",
+        "thumbnail": "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/Solid%20Mass%20Gainer%201kg/solid_mass_chocolate-flavour_1000g.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/Solid%20Mass%20Gainer%201kg/trec-solid-mass-5800g-.png"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Hyper Mass 6800 g",
+        "description": " Протеински напиток во прав со вкус на чоколадо, со јаглехидрати, креатин и засладувачи Збогатена храна Препорачана употреба: Измешајте 1 сервирање (65 g = 2 рамни дозери = 4 полни супени лажици) од производот со 450 ml вода во шејкер. Во деновите кога имате тренинг земете 1 сервирање веднаш по тренинг. Во деновите кога одморате, земете 1 сервирање наутро.Состав: малтодекстрин 51%, протеински концентрат од сурутка, инулин 7%, какао во прав со намалена масленост, автохтона восочна пченка 5%, креатин монохидрат 5%, калциум казеинат (содржи млеко), згуснувач (целулозна гума), ароми, емулгатор: лецитин (соја), протеински изолат од сурутка, сол, засладувач (сукралоза).Произведено во погон во кој се процесираат производи кои содржат: млеко, јајца, глутен, соја, ракови, сулфур диоксид и јаткасти плодови.",
+        "price": 4990,
+        "discountPercentage": 10.00,
+        "rating": 5.00,
+        "stock": 74,
+        "brand": "Biotech",
+        "category": "MassGainer",
+        "thumbnail": "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/Hyper%20Mass%206800%20g/biotech-usa-hyper-mass-6800gr-1200x950h.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/Hyper%20Mass%206800%20g/hyper-mass_14da2dc6-c718-41ad-ac08-b531622e30bd.webp"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Optimum Nutrition Serious Mass 2727gr",
+        "description": "Ready to mix powder with protein, carbohydrates, vitamins and minerals, with sweetener. Over 1250 calories per serving 50 g of whey protein  250 g carbs helps support muscle recovery 25 vitamins and minerals 3 g of creatine to support performance Ideal formula to support weight gains Enjoy post work-out and between meals Available in a range of sizes and great tasting flavours",
+        "price": 2490,
+        "discountPercentage": 12.00,
+        "rating": 4.21,
+        "stock": 14,
+        "brand": "Optimum Nutrition",
+        "category": "MassGainer",
+        "thumbnail": "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/Optimum%20Nutrition%20Serious%20Mass%202727gr/on-serious-mass_image_01-1.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/Optimum%20Nutrition%20Serious%20Mass%202727gr/s-mass-nutrition_facts_proteinweibshop_mammut.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "CarboJet Basic 3kg",
+        "description": "CarboJet™ Basic е високо квалитетен гејнер специјално дизајниран за дигачи на тегови, бодибилдери во фаза на кревање мускулна маса и спортисти со екстремно брз метаболизам. CarboJet™ Basic е погоден за активни луѓе, кои имаат потреба од мешавина од високо квалитетни јаглехидрати и протеини. Калориите ги сочинуваат главно протеини од сурутка и комплекс од јаглехидрати, кои ги хранат мускулите. CarboJet™ Basic е природно богат со глутамин и (BCAA) аминокиселини од разграден ланец. Придобивки: -надополнување во исхраната пред и по тренинг -високо квалитетни јаглехидрати и протеини -без аспартам -инстантно мешање. Препорачана употреба: Промешајте една дозерка (50 гр) со 200-250 мл вода или безмасно млеко.",
+        "price": 1300,
+        "discountPercentage": 2.00,
+        "rating": 1.50,
+        "stock": 89,
+        "brand": "Amix",
+        "category": "MassGainer",
+        "thumbnail": "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/CarboJet%20Basic%203kg/AMIX-CARBOJET-BASIC-GAINER-3KG-potezna-masa-Nazwa-Amix-CarboJetBasic-3000g.webp",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/CarboJet%20Basic%203kg/carbojet_basic_3000g_w_1913_l.jpg"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,95 @@
+{"ProductsAminoAcids": [
+      {
+        "id": 1,
+        "title": "AMINO POWER LIQUID 1000ml",
+        "description": "Amino Power Liquid. Додаток на исхраната со засладувачи. Комплексен аминокиселински спектар во течна форма. Препорачана доза: Измешајте доза од 40 ml во 250 ml вода и земете 1-2 пати дневно, најдобро веднаш по тренинг или пред спиење. Максималната дневна доза е 80 ml. Не ја надминувајте препорачаната дневна доза. Протресете пред употреба. По отворање, чувајте на температура до 10оС. Користете во рок од 2 месе Состојки: вода, хидролизиран говедски колаген, 10% казеин хидролизат PeptoPro®, Л-аргинин хидрохлорид, Л-орнитин хидрохлорид, регулатор на киселост: лимонска киселина, ароматична емулзија (сончогледово масло, арома, бои: каротени, лутеин и Е160е), засладувачи: ацесулфам К и сукралоза, конзерванси: сорбинска киселина и натриум бензоат, арома. Производот не служи како замена за разновидна, урамнотежена исхрана или здрав начин на живот. Не е наменет за деца, бремени жени или доилки! Чувајте надвор од дофат на деца! Да се ​​чува подалеку од топлина, замрзнување и влажност.",
+        "price": 1390,
+        "discountPercentage": 10.00,
+        "rating": 3.49,
+        "stock": 59,
+        "brand": "Nutrend",
+        "category": "AminoAcids",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/04/amino-power-liquid-1000ml-2021-1.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/AMINO%20POWER%20LIQUID%201000ml/AMINO-POWER-LIQUID-500ml-1000ml.2.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Essential Amino Energy 30servings",
+        "description": "Ready-to-mix Amino Acid Food Supplement Powder with Caffeine and Vitamin C, with sweeteners. *VITAMIN C CONTRIBUTES TO NORMAL ENERGY-YIELDING METABOLISM. CAFFEINE CONTRIBUTES TO INCREASED ALERTNESS AND IMPROVED CONCENTRATION.",
+        "price": 1390,
+        "discountPercentage": 3.00,
+        "rating": 3.10,
+        "stock": 77,
+        "brand": "Optimum Nutrition",
+        "category": "AminoAcids",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2021/06/on-1102190_image_01.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/Essential%20Amino%20Energy%2030servings/on-1102193_image_01.png"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Mega Amino 300tab BioTechUSA",
+        "description": "One of the main components of our cells is protein and amino acids are building blocks of proteins. We know 20 different amino acids. There are 9 types of essential amino acids, which are fundamental for the human body, however they cannot be produced by it. For this reason, it’s crucial to ensure an optimal amount of them from external sources. Conditionally essential amino acids, such as L-glutamine, L-arginine or L-tyrosine can be produced by the human body, but under certain circumstances, for example during an intense and long training their supplementation can be useful, too. In these cases, our bodies may require more amino acids, then it produces. Like all BioTechUSA products Mega Amino consists of only safe and carefully selected ingredients.",
+        "price": 1290,
+        "discountPercentage": 8.00,
+        "rating": 2.00,
+        "stock": 84,
+        "brand": "Biotech",
+        "category": "AminoAcids",
+        "thumbnail": "https://sportlab.ee/4803-thickbox_default/mega-amino-300tablets.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/Mega%20Amino%20300tab%20BioTechUSA/megaamino_300tbl_1l_2000x2000_b16dc7fa-cf85-480d-b93b-fef280d05515_500x500_crop_center.webp"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Mega Amino 500tab BioTechUSA",
+        "description": "Containing amino acids from different types of amino acid sources 5050 mg of amino acids per serving",
+        "price": 2090,
+        "discountPercentage": 1.00,
+        "rating": 2.51,
+        "stock": 99,
+        "brand": "Biotech",
+        "category": "AminoAcids",
+        "thumbnail": "https://biotechusa.ee/132-thickbox_default/mega-amino-3200-500tablets.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/Mega%20Amino%20500tab%20BioTechUSA/megaamino_500tbl_2l_2000x2000_91c5e707-5f2c-49a8-80ab-89179e9857df_x500_crop_center.webp"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Essential Amino 240tab Yamamoto Nutrition",
+        "description": "Amino acids are organic molecules composed in basic terms of both an amino group (NH2) and a carboxyl group (COOH), which, when combined, form the primary structure of proteins. There are 20 amino acids that contribute to the formation of proteins and are essential for the functioning of the body, plus a further 3 that have only recently been discovered. Of these 23 total amino acids, 8 are defined as essential. The term essential amino acids (EAA) refers to those amino acids that the body is unable to synthesise on its own, or at least not at a rate commensurate with metabolic demand. They therefore have to be included in the diet.",
+        "price": 1590,
+        "discountPercentage": 5.00,
+        "rating": 3.50,
+        "stock": 39,
+        "brand": "Yamamoto",
+        "category": "AminoAcids",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2018/03/a31240-600x600.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/Essential%20Amino%20240tab%20Yamamoto%20Nutrition/bcaa_straw_mango_02-2-600x600.png"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "BCAA 2:1:1 + Glutamine 300gr",
+        "description": "Нашиот BCAA во прав е додаток на храна богат со протеини со одличен вкус. Го дизајниравме со оптимална рамнотежа на леуцин, изолеуцин и валин во сооднос 2:1:1 за да ги подобриме процесите на вежбање. Нашите мускули користат BCAA за време на вежбањето. Поради оваа причина, дополнувањето на нашата млечна исхрана со нашиот производ помага на неколку начини. Тоа помага да се зголеми мускулниот раст со активирање на патеката во телото што ја стимулира синтезата на протеини. Исто така, ја намалува непријатноста во мускулите после тренинг со намалување на разградувањето на протеините за време на вежбањето и нивото на креатин киназа, што е знак за оштетување на мускулите. Нашиот BCAA гарантира дека разградувањето на протеините е помало од синтезата на мускулните протеини, што резултира со намалено оштетување на мускулите. Понатаму, BCAA може да им користи на оние со цироза на црниот дроб. Во тој случај, ако сакате да изградите мускулна маса, да ја минимизирате непријатноста по вежбањето и да избегнете оштетување и губење на мускулите, набавете го нашиот висококвалитетен производ и добијте добра зделка.",
+        "price": 990,
+        "discountPercentage": 9.00,
+        "rating": 3.50,
+        "stock": 53,
+        "brand": "Yava",
+        "category": "AminoAcids",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/04/bcaa_straw_mango_01-2.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/BCAA%20211%20%2B%20Glutamine%20300gr/bcaa_straw_mango_02-2.png"
+        ]
+      }
+    ]}
+     
+
+  

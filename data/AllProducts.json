@@ -1,0 +1,409 @@
+ {"allProducts": [
+    {
+        "id": 1,
+        "title": "AMINO POWER LIQUID 1000ml",
+        "description": "Amino Power Liquid. Додаток на исхраната со засладувачи. Комплексен аминокиселински спектар во течна форма. Препорачана доза: Измешајте доза од 40 ml во 250 ml вода и земете 1-2 пати дневно, најдобро веднаш по тренинг или пред спиење. Максималната дневна доза е 80 ml. Не ја надминувајте препорачаната дневна доза. Протресете пред употреба. По отворање, чувајте на температура до 10оС. Користете во рок од 2 месе Состојки: вода, хидролизиран говедски колаген, 10% казеин хидролизат PeptoPro®, Л-аргинин хидрохлорид, Л-орнитин хидрохлорид, регулатор на киселост: лимонска киселина, ароматична емулзија (сончогледово масло, арома, бои: каротени, лутеин и Е160е), засладувачи: ацесулфам К и сукралоза, конзерванси: сорбинска киселина и натриум бензоат, арома. Производот не служи како замена за разновидна, урамнотежена исхрана или здрав начин на живот. Не е наменет за деца, бремени жени или доилки! Чувајте надвор од дофат на деца! Да се ​​чува подалеку од топлина, замрзнување и влажност.",
+        "price": 1390,
+        "discountPercentage": 10.00,
+        "rating": 3.49,
+        "stock": 59,
+        "brand": "Nutrend",
+        "category": "AminoAcids",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/04/amino-power-liquid-1000ml-2021-1.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/AMINO%20POWER%20LIQUID%201000ml/AMINO-POWER-LIQUID-500ml-1000ml.2.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Essential Amino Energy 30servings",
+        "description": "Ready-to-mix Amino Acid Food Supplement Powder with Caffeine and Vitamin C, with sweeteners. *VITAMIN C CONTRIBUTES TO NORMAL ENERGY-YIELDING METABOLISM. CAFFEINE CONTRIBUTES TO INCREASED ALERTNESS AND IMPROVED CONCENTRATION.",
+        "price": 1390,
+        "discountPercentage": 3.00,
+        "rating": 3.10,
+        "stock": 77,
+        "brand": "Optimum Nutrition",
+        "category": "AminoAcids",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2021/06/on-1102190_image_01.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/Essential%20Amino%20Energy%2030servings/on-1102193_image_01.png"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Mega Amino 300tab BioTechUSA",
+        "description": "One of the main components of our cells is protein and amino acids are building blocks of proteins. We know 20 different amino acids. There are 9 types of essential amino acids, which are fundamental for the human body, however they cannot be produced by it. For this reason, it’s crucial to ensure an optimal amount of them from external sources. Conditionally essential amino acids, such as L-glutamine, L-arginine or L-tyrosine can be produced by the human body, but under certain circumstances, for example during an intense and long training their supplementation can be useful, too. In these cases, our bodies may require more amino acids, then it produces. Like all BioTechUSA products Mega Amino consists of only safe and carefully selected ingredients.",
+        "price": 1290,
+        "discountPercentage": 8.00,
+        "rating": 2.00,
+        "stock": 84,
+        "brand": "Biotech",
+        "category": "AminoAcids",
+        "thumbnail": "https://sportlab.ee/4803-thickbox_default/mega-amino-300tablets.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/Mega%20Amino%20300tab%20BioTechUSA/megaamino_300tbl_1l_2000x2000_b16dc7fa-cf85-480d-b93b-fef280d05515_500x500_crop_center.webp"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Mega Amino 500tab BioTechUSA",
+        "description": "Containing amino acids from different types of amino acid sources 5050 mg of amino acids per serving",
+        "price": 2090,
+        "discountPercentage": 1.00,
+        "rating": 2.51,
+        "stock": 99,
+        "brand": "Biotech",
+        "category": "AminoAcids",
+        "thumbnail": "https://biotechusa.ee/132-thickbox_default/mega-amino-3200-500tablets.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/Mega%20Amino%20500tab%20BioTechUSA/megaamino_500tbl_2l_2000x2000_91c5e707-5f2c-49a8-80ab-89179e9857df_x500_crop_center.webp"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Essential Amino 240tab Yamamoto Nutrition",
+        "description": "Amino acids are organic molecules composed in basic terms of both an amino group (NH2) and a carboxyl group (COOH), which, when combined, form the primary structure of proteins. There are 20 amino acids that contribute to the formation of proteins and are essential for the functioning of the body, plus a further 3 that have only recently been discovered. Of these 23 total amino acids, 8 are defined as essential. The term essential amino acids (EAA) refers to those amino acids that the body is unable to synthesise on its own, or at least not at a rate commensurate with metabolic demand. They therefore have to be included in the diet.",
+        "price": 1590,
+        "discountPercentage": 5.00,
+        "rating": 3.50,
+        "stock": 39,
+        "brand": "Yamamoto",
+        "category": "AminoAcids",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2018/03/a31240-600x600.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/Essential%20Amino%20240tab%20Yamamoto%20Nutrition/bcaa_straw_mango_02-2-600x600.png"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "BCAA 2:1:1 + Glutamine 300gr",
+        "description": "Нашиот BCAA во прав е додаток на храна богат со протеини со одличен вкус. Го дизајниравме со оптимална рамнотежа на леуцин, изолеуцин и валин во сооднос 2:1:1 за да ги подобриме процесите на вежбање. Нашите мускули користат BCAA за време на вежбањето. Поради оваа причина, дополнувањето на нашата млечна исхрана со нашиот производ помага на неколку начини. Тоа помага да се зголеми мускулниот раст со активирање на патеката во телото што ја стимулира синтезата на протеини. Исто така, ја намалува непријатноста во мускулите после тренинг со намалување на разградувањето на протеините за време на вежбањето и нивото на креатин киназа, што е знак за оштетување на мускулите. Нашиот BCAA гарантира дека разградувањето на протеините е помало од синтезата на мускулните протеини, што резултира со намалено оштетување на мускулите. Понатаму, BCAA може да им користи на оние со цироза на црниот дроб. Во тој случај, ако сакате да изградите мускулна маса, да ја минимизирате непријатноста по вежбањето и да избегнете оштетување и губење на мускулите, набавете го нашиот висококвалитетен производ и добијте добра зделка.",
+        "price": 990,
+        "discountPercentage": 9.00,
+        "rating": 3.50,
+        "stock": 53,
+        "brand": "Yava",
+        "category": "AminoAcids",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/04/bcaa_straw_mango_01-2.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Aminos_IMG/BCAA%20211%20%2B%20Glutamine%20300gr/bcaa_straw_mango_02-2.png"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "CreGAAtine 60sachets",
+        "description": " CreGAAtine е единствена комерцијална мешавина на креатин која содржи прекурсор на креатин ГАА – гванидинооцетна киселина.  Развиено и испорачано од Applied bioenergetic lab и Carnomed. ",
+        "price": 1690,
+        "discountPercentage": 2.00,
+        "rating": 3.49,
+        "stock": 44,
+        "brand": "CreGAAtine",
+        "category": "Creatines",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/06/cregaatine-web-1.webp",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Creatins_IMG/CreGAAtine%2060sachets/cregaatine-web-1.webp"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Crea POWDER Creapure® Quality 500 gr.",
+        "description": " CreaPOWDER е додаток во исхраната кој обезбедува 3 g креатин соодветен за спортисти кои извршуваат интензивни физички активности. Креатинот ги зголемува физичките перформанси при последователни рафали на краткотрајни, интензивни физички вежби.*Ефектот се постигнува со дневен внес од 3 g креатин.",
+        "price": 2190,
+        "discountPercentage": 8.00,
+        "rating": 4.20,
+        "stock": 14,
+        "brand": "Yamamoto",
+        "category": "Creatines",
+        "thumbnail": "https://en.vitamin360.com/img/42678/1120007000/IAF00068183.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Creatins_IMG/Crea%20POWDER%20Creapure%C2%AE%20Quality%20500%20gr/b24623.jpg"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "CREATINE MONOHYDRATE 300gr",
+        "description": " Во Dymatize не се прават компромиси за квалитетот па затоа се користи само Creapure® – креатин монохидрат со премиум квалитет. Креатинот е природно оформувачка супстанца во човековото тело. Игра витална улога во траспортацијата на на енергија во секоја клетка. Дневна суплементација од 3 гр креатин во период од минимум 4 недели покажува зголемен тотален креатин во мускулите. Додаден во вода или пијалок без кофеин, ултра чистиот и без вкус Dymatize® CREATINE MONOHYDRATE е перфектен избор при интензивни тренинзи.100% премиум квалитет Creapure® креатин монохидрат произведен во Германија. Креатинот ги зголемува физичките перформанси во последователникраткотрајни интервали, и вежби со висок интензитет. Извонредна растворливост. Без вкус погоден за вегани, без глутен и без лактоза. Без банирани супстанции тестирано од “Informed-Sport” for athletes’ гаранција за продукт со највисок квалитет",
+        "price": 1290,
+        "discountPercentage": 8.00,
+        "rating": 3.00,
+        "stock": 84,
+        "brand": "Dymatize",
+        "category": "Creatines",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2018/02/creatine_300g_shadow03_600x600-1-1.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Creatins_IMG/CREATINE%20MONOHYDRATE%20300gr/Dymatize-Creatine-Monohydrate-300gr-1200x1200.png"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Micronized Creatine Powder 317gr",
+        "description": "Creatine monohydrate food supplement powder. Food supplements are not to be used as a substitute for a varied diet. Do not exceed the recommended daily dose. Keep out of reach of children.*Euromonitor International Limited; Consumer Health 2020 Edition, Sports Protein Powder Category, % Retail Value Share 2019 data. Increase performance during high intensity training 3.4 g of pure Creatine Monohydrate to increase muscle power. Mixes easily with no gritty taste. Mix with water, juice or your ON shake",
+        "price": 1490,
+        "discountPercentage": 15.00,
+        "rating": 5.00,
+        "stock": 114,
+        "brand": "Optimum Nutrition",
+        "category": "Creatines",
+        "thumbnail": "https://shop.energyfit.com.mk/wp-content/uploads/2018/10/ON-creatine.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Creatins_IMG/Micronized%20Creatine%20Powder%20317gr/on-1102271_image_01.png"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Creatine 300gr.",
+        "description": "Креатинот на Yava Labs е висококвалитетен додаток во исхраната кој го надополнува нивото на креатин монохидрат во секојдневната исхрана дизајниран да ги подобри моќта и перформансите. Ние користиме креатин монохидрат, најбезбедниот, најефективниот облик на креатин. Успешно се користи со години, испитуван од многу истражувачи и е заклучен како најефективна и најбезбедна форма. Нашиот креатин е форма на прашок кој е многу порастворлив во вода и се апсорбира во телесното ткиво отколку типичен креатин монохидрат. Примарниот енергетски носител во мускулните клетки е молекулата на креатин, што го прави неговото дополнување идеолошки избор. Кога се користи редовно, нашиот производ ги подобрува атлетските перформанси со зголемување на силата, моќта и мускулната маса. Додатоците на креатин ги зголемуваат резервите на фосфокреатин во вашите мускули. Фосфокреатинот го промовира формирањето на аденозин трифосфат (ATP), клучната молекула која вашите клетки ја користат за енергија за време на вежбање со висок интензитет. Ова е примарен механизам со кој креатинот ги подобрува перформансите. Понатаму, креатинот е популарен и ефикасен додаток за зголемување на мускулната маса. Може да промени бројни клеточни патишта кои водат до нов мускулен раст. На пример, го промовира формирањето на протеини кои резултираат со создавање на нови мускулни влакна. Дополнително, додатоците на креатин може да ја зголемат водата во вашите мускули, а со тоа да ја поддржат хидратацијата и значително да ја зголемат големината на мускулите. Нашето пакување од 300 g е доволно дарежливо за да понуди 60 порции, секоја со тежина од 5 g. Една порција (1 мерица) главно содржи креатин монохидрат (4,9 грама). Исто така, содржи мали количини на Л-таурин, аминокиселина која помага во зајакнувањето и поддршката на мускулите и системот на крвните садови што ја транспортира крвта низ телото. Пиридоксинот е другата активна состојка во нашиот производ, компонента потребна за правилно функционирање на шеќерите, мастите и протеините на телото. Препорачана употреба: Додадете 5 g (1 топка) во 200 ml вода или млеко. Земете 2 порции на ден. Предупредувања: Не користете ако сте алергични на некое од соединенијата на додатокот. Не користете за време на бременост и доење. Не ја надминувајте препорачаната дневна доза. Додатоците во исхраната не треба да се користат како замена за разновидна и добро балансирана исхрана. Се препорачува урамнотежена исхрана и здрав начин на живот.Складирање: Да се чува во добро затворен, оригинален сад, на собна температура, заштитен од светлина и да се чува подалеку од дофат на деца.",
+        "price": 990,
+        "discountPercentage": 7.00,
+        "rating": 4.99,
+        "stock": 44,
+        "brand": "Yava",
+        "category": "Creatines",
+        "thumbnail": "https://nolimit.mk/wp-content/uploads/2023/03/creatine_01.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Creatins_IMG/Creatine%20300gr/creatine_02-2.png"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Creatine Monohydrate Creapure® 300gr 100serv",
+        "description": "100% premium quality Creapure® creatine monohydrate made in Germany. Creatine Monohydrate is a basic building block for creation of creatine phosphate, represents a source of energy in cells. Creatine increases physical performance in successive bursts of short-term, high intensity exercise. The beneficial effect is obtained with a daily intake of 3 g of creatine.",
+        "price": 1290,
+        "discountPercentage": 2.00,
+        "rating": 2.50,
+        "stock": 44,
+        "brand": "Amix",
+        "category": "Creatines",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/03/per_creatine-creapure_300g_3041_l.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Creatins_IMG/Creatine%20Monohydrate%20Creapure%C2%AE%20300gr%20100serv/per_creatine-creapure_300g_3041_l.jpg"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Creatine NANO 300gr 60servings",
+        "description": "Чист креатин нано монохидрат за зголемување на мускулната моќ. Секоја порција обезбедува полни 4,9 g 100% чист креатин монохидрат за да се зголеми мускулната моќ во последователни изливи на краткорочни, висок интензитет, повторени вежби. Зошто креатин нано? содржи 100% чист креатин монохидрат во нано форма што е над 1250 пати помали честички отколку во микронизиран креатин, што ја зголемува ефикасноста на апсорпција. Поради нивната големина на НАНО, тие почнуваат да се однесуваат повеќе како јони, стануваат многу електростатични и затоа лесно минуваат низ клеточните мембрани, овозможувајќи асимилација директно во крвотокот.",
+        "price": 1090,
+        "discountPercentage": 6.00,
+        "rating": 3.50,
+        "stock": 114,
+        "brand": "Azgard Nutrition",
+        "category": "Creatines",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2022/07/creatine-nano-front-1024x1024-1.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Creatins_IMG/Creatine%20NANO%20300gr%2060servings/creatine-nano-front-1024x1024-1%20(1).png"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "C4 Ultimate Pre Workout Powder 440gr",
+        "description": "It’s the pursuit to kick ass and take names in the gym. Your crushing hunger to reach your new PR is the very reason why we’ve spent the last few years engineering the most hard-hitting, intense, and focused pre-workout on the market–one that matches your obsession with being better than you were yesterday.",
+        "price": 2090,
+        "discountPercentage": 10.00,
+        "rating": 4.49,
+        "stock": 99,
+        "brand": "Cellucor",
+        "category": "PreWorkout",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2022/06/c4_ultimate_br20_eu_image.webp",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/PreWorkouts_IMG/C4%20Ultimate%20Pre%20Workout%20Powder%20440gr/c4_ultimate_br20_eu_image-1%20(1).webp"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "ON Gold Standard Pre Workout 330gr",
+        "description": "Додаток во исхраната со аминокиселини со овошен вкус подготвен за мешање во прав со кофеин, витамини и засладувачи. 175 мг кофеин од природни извори за да помогнете во зголемување на будноста и фокусот пред тренинг 3 g креатин за моќност и перформанси Витамини Б 1, Б 3, Б 5, Б 6 и Б 12 кои сите придонесуваат за нормален метаболизам кој дава енергија Сега со 250 мг перфеелон® по порција Витамини Б6 и Б12 за поддршка на нормалниот метаболизам што дава енергија",
+        "price": 1550,
+        "discountPercentage": 3.00,
+        "rating": 3.10,
+        "stock": 77,
+        "brand": "Optimum Nutrition",
+        "category": "PreWorkout",
+        "thumbnail": "https://www.bodyclub.gr/image/cache/catalog/Products/ON_Optimum_Nutrition/ON-Optimum-Nutrition-Gold-Standard-Pre-Workout-330g-1200x1200.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/PreWorkouts_IMG/ON%20Gold%20Standard%20Pre%20Workout%20330gr/on-1102160_image_01.png"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "C4 Original Pre Workout 390g",
+        "description": " Најпродаваниот производ за пред тренинг во светот, C4 ORIGINAL повторно ја задржува својата солидна репутација со класичната формула за напредна енергија, издржливост, фокус и напумпаност. Без разлика дали го започнувате вашето фитнес патување или сакате да стигнете до наредното ниво, C4 ORIGINAL ќе ви помогне да го достигнете вашиот полн понтенцијал. Клучните придобивки од користењето на C4 се:  ● Бран од експлозивна енергија која ќе ви овозможи предност над конкурентите ● Подобрени перформанси кои ќе ви дадат незадржлива моќ ● Долготрајна издржливост која ќе ви го обезбеди горивото, кое ви е потребно да ги одржите вашите најдобри перформанси што е можно подолго ● Зголемен фокус кој ќе ви помогне во секое повторување",
+        "price": 1990,
+        "discountPercentage": 8.00,
+        "rating": 2.00,
+        "stock": 84,
+        "brand": "Cellucor",
+        "category": "PreWorkout",
+        "thumbnail": "https://nolimit.mk/wp-content/uploads/2019/04/Dpf8LW2WwAAuKzh.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/PreWorkouts_IMG/C4%20Original%20Pre%20Workout%20390g/Dpf8LW2WwAAuKzh.jpg"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "C4 Original Pre Workout 195g",
+        "description": "Најпродаваниот производ за пред тренинг во светот, C4 ORIGINAL повторно ја задржува својата солидна репутација со класичната формула за напредна енергија, издржливост, фокус и напумпаност. Без разлика дали го започнувате вашето фитнес патување или сакате да стигнете до наредното ниво, C4 ORIGINAL ќе ви помогне да го достигнете вашиот полн понтенцијал. Клучните придобивки од користењето на C4 се: ● Бран од експлозивна енергија која ќе ви овозможи предност над конкурентите ● Подобрени перформанси кои ќе ви дадат незадржлива моќ  ● Долготрајна издржливост која ќе ви го обезбеди горивото, кое ви е потребно да ги одржите вашите најдобри перформанси што е можно подолго ● Зголемен фокус кој ќе ви помогне во секое повторување",
+        "price": 1490,
+        "discountPercentage": 2.00,
+        "rating": 2.51,
+        "stock": 99,
+        "brand": "Cellucor",
+        "category": "PreWorkout",
+        "thumbnail": "https://nolimit.mk/wp-content/uploads/2019/04/2000x2000.fit_.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/PreWorkouts_IMG/C4%20Original%20Pre%20Workout%20195g/2000x2000.fit_.png"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Whey 100 New Formula 700gr Immuno Shield",
+        "description": "Висококвалитетен протеински концентрат од сурутка Одличен вкус / 95% протеински концентрат од сурутка / комбинација од витамини и минерали Во 1 порција: 22 g протеини / 2,1 g јаглехидрати / 28,5 g протеински концентрат од суруткa WHEY 100 NEW FORMULA. Додаток во исхраната. Содржи засладувачи. Протеински концентрат од сурутка. WHEY 100 NEW FORMULA содржи целосни протеини од животинско потекло, витамини и минерали. WHEY 100 NEW FORMULA се раствора исклучително добро и брзо се апсорбира. Препорачаната дневна доза е 90 gr ПРЕПОРАЧАНА УПОТРЕБА: растворете една порција од производот – 30 g (2 дозери) во 200 ml вода или млеко; користете шејкер или блендер. Земете 3 порции дневно. Во деновите кога вежбате: првата порција земете ја наутро по станување, втората рок од 1,5 час по тренинг и третата пред спиење. Кога не вежбате: првата порција земете ја наутро по станување, втората помеѓу оброци и третата пред спиење. СОСТАВ: протеински концентрат од сурутка (од млеко) (95%); какао во прав1,2,3; регулатори на киселост8 – лимонска киселина, јаболкова киселина; ароми1,2,3,4,5,6,7,8,9,10; згуснувач – натриум карбоксиметил целулоза1,2,3,4,5,6,7,8,9,10; концентрат од сок од цвекло8; калциумови соли на ортофосфорна киселина; засладувач – сукралоза1,2,3,4,5,6,7,8,9,10; цинк оксид; пиридоксин хидрохлорид; холекалциферол. Се однесува на производи со вкусови: 1чоколадо кокос, 2двојно чоколадо, 3чоколадо и портокал бисквити, 4лешник, 5пралини од кокос, 6колачи и крем, 7крем од кикирики и ванила, 8јагоди крем, 9ванила крем, 10бело чоколадо. СКЛАДИРАЊЕ: Да се чува во цврсто затворено пакување, на суво место, на температура од 15-25 оС. Чувајте надвор од дофат на деца. По отворањето, користете во рок од 3 месеци.",
+        "price": 1390,
+        "discountPercentage": 10.00,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "Trec Nutrition",
+        "category": "Proteins",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2021/12/whey-100-new-formula-ciasteczka-cs.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Proteins_IMG/Whey%20100%20New%20Formula%20700gr%20Immuno%20Shield/whey-100-new-formula-ciasteczka-cs.jpg"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "100% Azgard Whey 5040gr White Chocolate Coconut",
+        "description": "Сите знаеме дека вежбањето со тегови предизвикува оштетување на мускулните влакна. Додека се поправа, градиме поцврсти влакна за да избегнеме оштетување во иднина. Протеините се градежни блокови во овој процес. За вежбање со тегови, препорачаниот внес на протеини е 2 g на кг телесна тежина. Ова е 200 g протеин за спортист кој тежи 100 kg. Без соодветна количина на протеини, не можете да изградите мускули. Внесувањето доволно протеини од традиционалните оброци е предизвик за многу спортисти. Azgard Whey може да биде оптимално решение за зголемување на внесот на протеини. Протеинот од сурутка има најголема биолошка вредност меѓу протеините. Тој е лесен за варење, целосен протеин, што значи дека ги содржи сите есенцијални амино киселини. Користете 1 дозерка Azgard Whey веднаш по тренингот за да обезбедите висококвалитетни протеини за да го максимизирате мускулниот раст. -Зошто 100% Azgard Whey е специјален производ: -73% од CFM протеинот од сурутка придонесува за раст и одржување на мускулната маса и одржување на нормални коски со дигестивни ензими за удобност на стомакот со засладувач. -Нашиот процес на производство на инстант CFM Whey протеин „Микрофилтрација со вкрстен проток“ е една од најдобрите форми на протеини Инструкции за употреба: додадете 1 дозер (35 g) во 250 ml вода или млеко. Добро измешајте. Совет: Производот може да го користите за подготовка на одличен лесен појадок. Само измешајте 50-100 g (во зависност од Вашите потреби) овесна каша со 1 дозер од 100% Whey со вашиот омилен вкус. Сервирање: 1 порција (35 g); вкупно дози во пакувањето: 1/26/6 Нутритивни факти Во порција (35g) *РВ% / 35 g Енергија 574 kJ / 136 kcal 6,8%;Масти 1,9 g 2,7%; Од кои заситени 1,2 g 6%; Јаглехидрати 4,1 g 1,6%; Од кои шеќери** 3,6g 4% ;Протеини 26 g 51%;Сол 0,52 g 8,7%; Комплекс од дигестивни ензими -Бромелин 5 mg; Папаин 5 mg. *% од референтен внес за просечни возрасни лица (8400 kJ / 2000kcal).**Содржи шеќери само од состојките од млеко. Состав: Микрофилтриран со вкрстен проток инстант протеински концентрат од сурутка (од млеко), обезмастено млеко во прав, какао прав, сол, ароми, засладувач (сукралоза), згуснувач (ксантанова гума), бромелин ексрахиран од Ananas comosus (2500 GDU/g), папаин екстрахиран од Carica papaya (6000 USP/mg). Информации за алергени: Содржи млеко. Може да содржи соја, јајца, јатки.Внимание: Не ја надминувајте препорачаната дневна доза. Користете како дел од разновидна, урамнотежена исхрана и здрав начин на живот. Препораки за складирање: Чувајте во добро затворено пакување на температура од 5- 30оС. Чувајте подалеку од директен извор на топлина, влага и сончева светлина. По отворање користете во рок од 6 месеци. Рок на употреба: означено на пакувањето.",
+        "price": 5200,
+        "discountPercentage": 5.00,
+        "rating": 5.00,
+        "stock": 54,
+        "brand": "Azgard Nutrition",
+        "category": "Proteins",
+        "thumbnail": "https://nolimit.mk/wp-content/uploads/2022/06/IsolateDarkchoco-1024x1024-1.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Proteins_IMG/100%25%20Azgard%20Whey%205040gr%20White%20Chocolate%20Coconut/vitamin-d3-protein-shop-2-1-800x800.jpg"
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Nutrend Whey Core 900gr",
+        "description": "The power of simplicity. Quality whey protein from certified suppliers in 4 delicious flavours containing the optimal ratio of branched amino acids BCAA. The very basic and quality supplement for unbeatable price. Benefits: up to 24 g of protein per dose 4,5 g BCAA per dose Wide range of amino acids preservatives-free artificial colourants-free gluten-free Flavours: strawberry vanilla cookies chocolate+cocoa Whey protein concentrate It can usually contain up to 80% protein. The rest is created by lactose, fat and carbohydrates. It is suitable for beginners but also everyone who wants to enrich their diet with proteins.",
+        "price": 1590,
+        "discountPercentage": 8.00,
+        "rating": 3.00,
+        "stock": 84,
+        "brand": "Nutrend",
+        "category": "Proteins",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/04/whey_core_cookies_900g-1.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Proteins_IMG/Nutrend%20Whey%20Core%20900gr/whey_core_cookies_900g-1.jpg"
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Casein Protein 2kg.",
+        "description": "Нашиот казеин е млечен протеински концентрат богат со природни протеини дизајниран да помогне во обновувањето, да го спречи распаѓањето на мускулите и да го зајакне мускулниот раст. Го создадовме производот со уметност на разбирање на барањата на спортистот, бодибилдерите и редовните посетители на теретана. Казеинот е бавно сварлив млечен протеин кој бавно ослободува аминокиселини, па затоа препорачуваме да го земате пред спиење за да помогне во опоравувањето и да се намали распаѓањето на мускулите додека спијат. Го зголемува метаболизмот на мастите, што е од фундаментално значење за здрав начин на живот. Неколку студии покажаа дека помага во зајакнувањето на мускулниот раст. Покрај високата хранлива вредност што ја нуди нашиот производ, нашите клиенти можат да избираат од различни богати и вкусни опции во однос на вкусот, вклучувајќи сладолед од чоколадо и сладолед од ванила. Дополнително, нашите клиенти го добиваат токму она што е наведено на пакувањето. Денес, нашиот казеин се издвојува поради високото богатство со природни протеини. Секое пакување од 2 килограми е доволно дарежливо за да обезбеди 66 порции, секоја од 30 грама (1 мерица).  Мерица од нашиот казеин сочинува 22 грама протеин добиен од млеко одговорен за градење и поправка на мускулите. Исто така, содржи 5 грама амино киселини со разгранет ланец (BCAA), одговорни за градење и обновување на чистата мускулна маса и 2,6 грама леуцин, кој промовира мускулна маса или спречува губење на протеини во неколку состојби кои се карактеризираат со губење на мускулните протеини. Исто така, обезбедува енергија во износ од 469 kJ / 112 kcal. Посветени сме на црпење на нашите состојки од природата и користење на многу безбедни состојки, вклучително и млечен протеин концентрат (80% млечен казеин, 20% концентрат од протеин од сурутка), вкус, емулгатор: карбоксиметилцелулоза, сончоглед лецитин, згуснувач: гуар за џвакање, ксантанска гума, храна Боја: црвена репка, сол, засладувачи: сукралоза, ацесулфам К. Препорачана употреба: Растворете 30 грама (1 мерица) прашок во 200 ml вода. Освен тоа, има мазна текстура и затоа може да се додаде во омиленото смути, шејк или дури и овес. Сепак, индивидуалните потреби за исхрана варираат во зависност од телесната тежина и нивото на тренинг/вежбање.",
+        "price": 3490,
+        "discountPercentage": 3.00,
+        "rating": 4.23,
+        "stock": 214,
+        "brand": "Yava",
+        "category": "Proteins",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/04/casein_choc_01-2.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Proteins_IMG/Casein%20Protein%202kg/casein_choc_02-2.png",
+          "http://127.0.0.1:5500/ProductsIMAGES/Proteins_IMG/Casein%20Protein%202kg/casein_van_01-2.png"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Gold Core Whey 100 900gr 30servings",
+        "description": "Премиум протеински комплекс од сурутка за брзо зголемување на мускулната маса Gold Core Line Whey 100. Додаток во исхраната. Со засладувач. Протеински концентрат, изолат и хидролизат од сурутка. Gold Core Line Whey 100 содржи комплекс од концентрат од протеин од сурутка; изолат од протеин од сурутка и хидролизат од протеин од сурутка. Производот е извор на полновредни животински протеини богати со есенцијални аминокиселини кои ги вклучуваат аминокиселините со разгранет ланец и Л-глутамин. Gold Core Line Whey 100 се раствора екстремно брзо. Протеините помагаат за раст и одржување на мускулната маса. Препорачаната дневна доза е 90 g. Препорачана употреба: Растворете една порција од производот – 30 g (2 мерици) во 200 ml вода или млеко; користете шејкер или блендер. Земете 3 порции дневно. Во деновите кога имате тренинг: првото сервирање испијте го наутро, по станување, второто во рок од 1,5 час по тренинг и третото пред спиење. Во деновите кога немате тренинг: првото сервирање испијте го наутро, по станување, второто меѓу оброци и третото пред спиење. Состојки: GOLD CORE МАТРИЦА ОД СУРУТКА [концентрат од протеин од сурутка (добиен од млеко); изолат од протеин од сурутка (од млеко); хидролизат од протеин од сурутка (од млеко) (95,5%)]; какао во прав за вкусовите: чоколадо, чоколадо-цреша, чоколадо-сусам, кокос-чоколадо; ароми; регулатори на киселост за вкусовите: јагода и малина – лимонска киселина, јаболкова киселина; згуснувачи – целулознаа гума, ксантанова гума; засладувач – сукралоза; боја за вкусовите: ванилата, колачи, путер од кикирики и адвокат – бета-каротен; боја за вкус на банана – квинолин жолта; боја за вкусовите: јагода и малина – кохинеална црвена А. Внимание: не ја надминувајте препорачаната дневна доза. Производот не служи како замена за разновидна балансирана исхрана. Деца, бремени жени и доилки не смеат да го употребуваат производот. Разновидната и балансирана исхрана и здравиот начин на живот се важни. Боите кохинеална црвена А и квинолин жолта може да имаат негативно влијание врз активноста и вниманието кај децата. Производот може да содржи алергени како на пр.: млеко, соја, пченица, јачмен, јајца, кикирики и јаткасто овошје. Начин на чување: Чувајте во добро затворена кутија, на суво место, на температура од 15-25оС. Чувајте надвор од дофат на деца. Рок на употреба, сериски број и земја на потекло: означено на на пакувањето.",
+        "price": 1590,
+        "discountPercentage": 7.00,
+        "rating": 4.99,
+        "stock": 214,
+        "brand": "Trec Nutrition",
+        "category": "Proteins",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/04/gold-core_whey-100_900g_render_cookies.webp",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/Proteins_IMG/Gold%20Core%20Whey%20100%20900gr%2030servings/gold-core_whey-100_900g_render_cookies.webp"   
+        ]
+      },
+      {
+        "id": 23,
+        "title": "SUPER MASS GAINER | 2934 gr",
+        "description": "Dymatize® SUPER MASS GAINER™ е премиум гејнер за зголемување на мускулна маса, со соодветен калоричен профил дизајниран да ги задоволи особените потеби на бодибилдерите, и сите оние кои сакаат да качат мускулна маса. Особено во фаза на интензивни тренинзи, есенцијалено е да се овозможи соодветен нутртивен внес. “POWERHOUSE Formula” е специјален матрикс дизајниран да овозможи силна комбинација од креатин, јаглехидрати и протеини, задоволувајќи ги потребите за зголемување на мускулната маса. Секоја порција содржи 52 гр високо квалитетен протеин, вклучувајќи 11-12 гр BCAAs + 3 гр креатин и 243 гр јаглехидрати низок процент шекери.Dymatize®  користи само чист, високо квалитетен креатин монохидрат од Creapure®.52 гр високо квалитетен протеин во порција Вклучено 11 – 12 гр BCAAs** До 243 гр јаглехидрати во порција Со 3 гр креатин во порција Низок процент на шекер Вклучени 5 витамини Без глутен Без банирани супстанции тестирано од “Informed-Sport” for athletes’ гаранција за продукт со највисок квалитет ",
+        "price": 2390,
+        "discountPercentage": 0.00,
+        "rating": 4.49,
+        "stock": 74,
+        "brand": "Dymatize",
+        "category": "MassGainer",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/03/smg_pulver_2943g_gourmet_vanilla_170914_600x600.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/SUPER%20MASS%20GAINER%20%202934%20gr/smg_pulver_2943g_gourmet_vanilla_170914_600x600.png"
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Solid Mass Gainer 1kg",
+        "description": " !!! НОВО !!! Препорачано од Denis Cyplenkov ВРВНИОТ КВАЛИТЕТ НА ТРЕК Solid Mass Monster Mass Building Formula! Помага во добивање на мускулна маса и тежина Вреден извор на енергија и протеини Гејнер основан на протеини и јагленихидрати",
+        "price": 690,
+        "discountPercentage": 0.00,
+        "rating": 2.10,
+        "stock": 37,
+        "brand": "Trec",
+        "category": "MassGainer",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/03/solid_mass_chocolate-flavour_1000g.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/Solid%20Mass%20Gainer%201kg/trec-solid-mass-5800g-.png"
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Hyper Mass 6800 g",
+        "description": " Протеински напиток во прав со вкус на чоколадо, со јаглехидрати, креатин и засладувачи Збогатена храна Препорачана употреба: Измешајте 1 сервирање (65 g = 2 рамни дозери = 4 полни супени лажици) од производот со 450 ml вода во шејкер. Во деновите кога имате тренинг земете 1 сервирање веднаш по тренинг. Во деновите кога одморате, земете 1 сервирање наутро.Состав: малтодекстрин 51%, протеински концентрат од сурутка, инулин 7%, какао во прав со намалена масленост, автохтона восочна пченка 5%, креатин монохидрат 5%, калциум казеинат (содржи млеко), згуснувач (целулозна гума), ароми, емулгатор: лецитин (соја), протеински изолат од сурутка, сол, засладувач (сукралоза).Произведено во погон во кој се процесираат производи кои содржат: млеко, јајца, глутен, соја, ракови, сулфур диоксид и јаткасти плодови.",
+        "price": 4990,
+        "discountPercentage": 10.00,
+        "rating": 5.00,
+        "stock": 74,
+        "brand": "Biotech",
+        "category": "MassGainer",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/03/biotech-usa-hyper-mass-6800gr-1200x950h.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/Hyper%20Mass%206800%20g/hyper-mass_14da2dc6-c718-41ad-ac08-b531622e30bd.webp"
+        ]
+      },
+      {
+        "id": 26,
+        "title": "Optimum Nutrition Serious Mass 2727gr",
+        "description": "Ready to mix powder with protein, carbohydrates, vitamins and minerals, with sweetener. Over 1250 calories per serving 50 g of whey protein  250 g carbs helps support muscle recovery 25 vitamins and minerals 3 g of creatine to support performance Ideal formula to support weight gains Enjoy post work-out and between meals Available in a range of sizes and great tasting flavours",
+        "price": 2490,
+        "discountPercentage": 12.00,
+        "rating": 4.21,
+        "stock": 14,
+        "brand": "Optimum Nutrition",
+        "category": "MassGainer",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/03/on-serious-mass_image_01-1.png",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/Optimum%20Nutrition%20Serious%20Mass%202727gr/s-mass-nutrition_facts_proteinweibshop_mammut.jpg"
+        ]
+      },
+      {
+        "id": 27,
+        "title": "CarboJet Basic 3kg",
+        "description": "CarboJet™ Basic е високо квалитетен гејнер специјално дизајниран за дигачи на тегови, бодибилдери во фаза на кревање мускулна маса и спортисти со екстремно брз метаболизам. CarboJet™ Basic е погоден за активни луѓе, кои имаат потреба од мешавина од високо квалитетни јаглехидрати и протеини. Калориите ги сочинуваат главно протеини од сурутка и комплекс од јаглехидрати, кои ги хранат мускулите. CarboJet™ Basic е природно богат со глутамин и (BCAA) аминокиселини од разграден ланец. Придобивки: -надополнување во исхраната пред и по тренинг -високо квалитетни јаглехидрати и протеини -без аспартам -инстантно мешање. Препорачана употреба: Промешајте една дозерка (50 гр) со 200-250 мл вода или безмасно млеко.",
+        "price": 1300,
+        "discountPercentage": 2.00,
+        "rating": 1.50,
+        "stock": 89,
+        "brand": "Amix",
+        "category": "MassGainer",
+        "thumbnail": "https://hardcoreshop.mk/wp-content/uploads/2023/03/carbojet_basic_3000g_w_1913_l.jpg",
+        "images": [
+          "http://127.0.0.1:5500/ProductsIMAGES/MassGainer_IMG/CarboJet%20Basic%203kg/carbojet_basic_3000g_w_1913_l.jpg"
+        ]
+        
+  
+      }]}
